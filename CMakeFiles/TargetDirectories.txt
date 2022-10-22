@@ -1,0 +1,4 @@
+/mnt/d/labal/AkLab3/CMakeFiles/factorial.dir
+/mnt/d/labal/AkLab3/CMakeFiles/main.dir
+/mnt/d/labal/AkLab3/CMakeFiles/edit_cache.dir
+/mnt/d/labal/AkLab3/CMakeFiles/rebuild_cache.dir
